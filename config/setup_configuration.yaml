@@ -1,0 +1,5 @@
+d33: 3.0e-11 # Piezoelectric constant [C/N]
+Cf: 220.0e-12 # Buffor capacitance [F]
+Rf: 470.0e+6 # Buffor resistance [Ohm]
+T: 3124.0 # sampling frequency [Hz]
+
